@@ -1,9 +1,9 @@
 # LGMVIP-WebDev
 
-## Beginner Level Task :- 
+## Beginner Level Task (Task 1):- 
 Create a Single Page Website using HTML, CSS and JavaScript.
 
-## Intermediate Level Task :-
+## Intermediate Level Task (Task 2):-
 Create a Web Application using create-react-app.
 
 ## Tech Stack Used
